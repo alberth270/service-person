@@ -3,7 +3,6 @@ package com.everis.proyect.controller;
 import com.everis.proyect.entity.Person;
 import com.everis.proyect.services.PersonService;
 import io.reactivex.Single;
-
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
