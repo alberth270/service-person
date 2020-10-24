@@ -1,0 +1,7 @@
+com\everis\proyect\services\PersonService.class
+com\everis\proyect\services\BaseService.class
+com\everis\conf\SwaggerSpringConfig.class
+com\everis\proyect\entity\Person.class
+com\everis\proyect\PersonApplication.class
+com\everis\proyect\controller\PersonController.class
+com\everis\proyect\repository\PersonRepository.class
